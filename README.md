@@ -8,5 +8,5 @@ https://zetcode.com/javagames/sokoban/
 3. Seleccionar el archivo Sokoban.java con click derecho
 4. En las opciones, seleccionar “Run Java”
 5. Una vez que se despliegue la ventana, presionar cualquier tecla para avanzar un estado al ambiente
-Tip : Se puede mantener presionada cualquier tecla para que el avance entre estados sea inmediato y los resultados se muestren más rápido
 6. Visualizar el resultado
+Tip : Se puede mantener presionada cualquier tecla para que el avance entre estados sea inmediato y los resultados se muestren más rápido
